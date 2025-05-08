@@ -66,9 +66,8 @@ def update_score():
         messagebox.showinfo('Fim de Jogo', 'Você perdeu')
         janela.quit
 
-
-
-                                                  #PROGRAMA PRINCIPAL
+                                              
+#PROGRAMA PRINCIPAL
 
 #criando interface principal
 janela = Tk()
