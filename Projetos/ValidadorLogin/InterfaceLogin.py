@@ -1,7 +1,7 @@
 import customtkinter as ctk
 from lib import *
 
-arquivo = r'D:\workspace\ws-VScode\RepositorioTkinter\ValidadorLogin\dados\BancoDeDados.txt'
+arquivo = r'D:\workspace\ws-VScode\RepositorioTkinter\Projetos\ValidadorLogin\dados\BancoDeDados.txt'
 if not arqExiste(arquivo):
     criarArq(arquivo)
 
